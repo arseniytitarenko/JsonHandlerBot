@@ -1,0 +1,35 @@
+C:\hse\CSharp\KDZ\ControlHometask7\ClassLibrary\bin\Debug\net6.0\ClassLibrary.deps.json
+C:\hse\CSharp\KDZ\ControlHometask7\ClassLibrary\bin\Debug\net6.0\ClassLibrary.dll
+C:\hse\CSharp\KDZ\ControlHometask7\ClassLibrary\bin\Debug\net6.0\ClassLibrary.pdb
+C:\hse\CSharp\KDZ\ControlHometask7\ClassLibrary\obj\Debug\net6.0\ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\hse\CSharp\KDZ\ControlHometask7\ClassLibrary\obj\Debug\net6.0\ClassLibrary.AssemblyInfoInputs.cache
+C:\hse\CSharp\KDZ\ControlHometask7\ClassLibrary\obj\Debug\net6.0\ClassLibrary.AssemblyInfo.cs
+C:\hse\CSharp\KDZ\ControlHometask7\ClassLibrary\obj\Debug\net6.0\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\hse\CSharp\KDZ\ControlHometask7\ClassLibrary\obj\Debug\net6.0\ClassLibrary.dll
+C:\hse\CSharp\KDZ\ControlHometask7\ClassLibrary\obj\Debug\net6.0\refint\ClassLibrary.dll
+C:\hse\CSharp\KDZ\ControlHometask7\ClassLibrary\obj\Debug\net6.0\ClassLibrary.pdb
+C:\hse\CSharp\KDZ\ControlHometask7\ClassLibrary\obj\Debug\net6.0\ref\ClassLibrary.dll
+C:\Users\arsen\hse\CSharp\KDZ\ControlHometask7\ClassLibrary\bin\Debug\net6.0\ClassLibrary.deps.json
+C:\Users\arsen\hse\CSharp\KDZ\ControlHometask7\ClassLibrary\bin\Debug\net6.0\ClassLibrary.dll
+C:\Users\arsen\hse\CSharp\KDZ\ControlHometask7\ClassLibrary\bin\Debug\net6.0\ClassLibrary.pdb
+C:\Users\arsen\hse\CSharp\KDZ\ControlHometask7\ClassLibrary\obj\Debug\net6.0\ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arsen\hse\CSharp\KDZ\ControlHometask7\ClassLibrary\obj\Debug\net6.0\ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\arsen\hse\CSharp\KDZ\ControlHometask7\ClassLibrary\obj\Debug\net6.0\ClassLibrary.AssemblyInfo.cs
+C:\Users\arsen\hse\CSharp\KDZ\ControlHometask7\ClassLibrary\obj\Debug\net6.0\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\arsen\hse\CSharp\KDZ\ControlHometask7\ClassLibrary\obj\Debug\net6.0\ClassLibrary.dll
+C:\Users\arsen\hse\CSharp\KDZ\ControlHometask7\ClassLibrary\obj\Debug\net6.0\refint\ClassLibrary.dll
+C:\Users\arsen\hse\CSharp\KDZ\ControlHometask7\ClassLibrary\obj\Debug\net6.0\ClassLibrary.pdb
+C:\Users\arsen\hse\CSharp\KDZ\ControlHometask7\ClassLibrary\obj\Debug\net6.0\ref\ClassLibrary.dll
+C:\Users\arsen\hse\CSharp\KDZ\ControlHometask7\ClassLibrary\obj\Debug\net6.0\ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\1234\Downloads\Telegram Desktop\ControlHometask7\ControlHometask7\ClassLibrary\bin\Debug\net6.0\ClassLibrary.deps.json
+C:\Users\1234\Downloads\Telegram Desktop\ControlHometask7\ControlHometask7\ClassLibrary\bin\Debug\net6.0\ClassLibrary.dll
+C:\Users\1234\Downloads\Telegram Desktop\ControlHometask7\ControlHometask7\ClassLibrary\bin\Debug\net6.0\ClassLibrary.pdb
+C:\Users\1234\Downloads\Telegram Desktop\ControlHometask7\ControlHometask7\ClassLibrary\obj\Debug\net6.0\ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\1234\Downloads\Telegram Desktop\ControlHometask7\ControlHometask7\ClassLibrary\obj\Debug\net6.0\ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1234\Downloads\Telegram Desktop\ControlHometask7\ControlHometask7\ClassLibrary\obj\Debug\net6.0\ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\1234\Downloads\Telegram Desktop\ControlHometask7\ControlHometask7\ClassLibrary\obj\Debug\net6.0\ClassLibrary.AssemblyInfo.cs
+C:\Users\1234\Downloads\Telegram Desktop\ControlHometask7\ControlHometask7\ClassLibrary\obj\Debug\net6.0\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\1234\Downloads\Telegram Desktop\ControlHometask7\ControlHometask7\ClassLibrary\obj\Debug\net6.0\ClassLibrary.dll
+C:\Users\1234\Downloads\Telegram Desktop\ControlHometask7\ControlHometask7\ClassLibrary\obj\Debug\net6.0\refint\ClassLibrary.dll
+C:\Users\1234\Downloads\Telegram Desktop\ControlHometask7\ControlHometask7\ClassLibrary\obj\Debug\net6.0\ClassLibrary.pdb
+C:\Users\1234\Downloads\Telegram Desktop\ControlHometask7\ControlHometask7\ClassLibrary\obj\Debug\net6.0\ref\ClassLibrary.dll
